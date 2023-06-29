@@ -1,1 +1,1 @@
-# JavaCoffeeLab
+- This program is used to create/store coffee orders
